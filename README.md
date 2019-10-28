@@ -1,5 +1,7 @@
 # MakersBnB
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/b1f38457ecb667210dc1/maintainability)](https://codeclimate.com/github/ollyholly/makersBnB/maintainability)
+
 makersBnB is a system for users to list and view spaces that can be booked for staying overnight.
 
 ## MVP
