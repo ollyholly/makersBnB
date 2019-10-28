@@ -15,11 +15,10 @@ gem 'sinatra-flash'
 gem 'sinatra-partial', require: 'sinatra/partial'
 gem 'pony'
 gem 'sendgrid-ruby'
-gem 'dotenv-rails', groups: [:development, :test]
+gem 'dotenv', groups: [:development, :test]
 
 group :test do
   gem 'capybara'
-  gem 'launchy'
   gem 'simplecov', require: false
   gem 'simplecov-console', require: false
 end
